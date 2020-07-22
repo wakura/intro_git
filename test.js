@@ -1,0 +1,2 @@
+var testval;
+testval = 'sample'

@@ -1,5 +1,7 @@
 Gitの練習用です。
 
 １＿変更を学びます
-・Git Add なんちょけ
-・Git commit
+・git add なんちょけ
+・git commit
+・git rm
+

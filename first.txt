@@ -1,3 +1,5 @@
-Git�̗��K�p�ł��B
+Gitの練習用です。
 
-�P�Q�ύX���w�т܂�
+１＿変更を学びます
+・Git Add なんちょけ
+・Git commit
